@@ -6,6 +6,7 @@ in **Python** and **R** programming, **data manipulation**, and **visualisation*
 analytics, my background as a client-facing senior label manager has equipped me with expertise in **project
 management, data analysis, collaboration, strategic thinking, leadership, active listening**, and **communication.**
 
+
 ## **Key Skills**
 ● **Python**\
 ○ Data Processing (Pandas)\
