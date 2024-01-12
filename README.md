@@ -8,9 +8,10 @@ management, data analysis, collaboration, strategic thinking, leadership, active
 
 
 ## **Key Skills**
+● **SQL**
 ● **Python**\
 ○ Data Processing (Pandas)\
-○ Data-Vis (MatPlotLib)\
+○ Data-Vis (MatPlotLib, Seaborn)\
 ● **R**\
 ○ Data-Vis (ggplot2)\
 ● **Microsoft Office (Excel)\
