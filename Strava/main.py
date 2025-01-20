@@ -36,7 +36,7 @@ def run(data):
 
 if __name__=="__main__":
 
-    tom_strava_data = pd.read_csv('/workspaces/Portfolio/Strava/Tom Strava activities (1).csv')
+    tom_strava_data = pd.read_csv('/workspaces/Portfolio/Strava/tom_strava_activities.csv')
 
     parser = argparse.ArgumentParser()
 
