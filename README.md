@@ -1,32 +1,17 @@
 # Welcome to my Portfolio!
 
 ## **Personal Profile**
-As an accomplished professional completing a **Level 4 Data Analytics Bootcamp** with a **Master's in Big Data**, I excel
-in **Python** and **R** programming, **data manipulation**, and **visualisation**. Seeking to leverage these skills in data and
-analytics, my background as a client-facing senior label manager has equipped me with expertise in **project
-management, data analysis, collaboration, strategic thinking, leadership, active listening**, and **communication.**
+As an accomplished Data Engineer with Sky, I have expertise in Python, SQL, data analysis, data pipelines, automation and data dashboard visualisation. Alongside my Master's in Big Data, my background as a client-facing Senior Label Manager has equipped me with strong skills in stakeholder management, data analysis, communication, creativity, project management and problem-solving.  I am looking to apply  my skills in a company that offers opportunities for growth and development.
 
 
-## **Key Skills**
-● **SQL**\
-● **Python**\
-○ Data Processing (Pandas)\
-○ Data-Vis (MatPlotLib, Seaborn)\
-● **R**\
-○ Data-Vis (ggplot2)\
-● **Microsoft Office (Excel)\
-● Gephi (Network Analysis)\
-● Data Analysis\
-● Project Management\
-● Problem Solving\
-● Leadership\
-● Strategic Thinking\
-● Time Management\
-● Decision Making\
-● Active Listening\
-● Final Cut Pro\
-● Logic Pro\
-● Adobe Photoshop**
+| Key Skills                  |                     |                       |
+|-----------------------------|---------------------|-----------------------|
+|Python (Pandas, Numpy, Scipy |Git                  |Agile Methodologies    |
+|SQL, BigQuery, PostgreSQL    |Docker               |Data Analysis          |
+|Airflow                      |Data Architecture    |Project Management     |
+|Github / Gitlab              |Data Visualisation   |Microsoft Teams        |
+|Data Governance              |MS Office (Excel)    |Google Cloud Platform  |
+  
 
 ## **Education &amp; Qualifications**
 Cambridge Spark — **Level 4 Data Analyst Bootcamp**, Oct 2023 - Present (Completing in Jan 2024)
